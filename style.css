@@ -10,12 +10,12 @@ profil saya akhdan {
   padding: 20 px;
   backgruond-color: white;
   border-radius: 15px; /* membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0,1), /* efek bayangan */
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
 }  
 
 foto profil saya img {
   widh: 150px;
-  botder-radius: 40% /* trik untuk membuat gambar persegi menjadi lengkungan sempurna */
+  botder-radius: 40%; /* trik untuk membuat gambar persegi menjadi lengkungan sempurna */
 }
 
 profil saya akhdan{
