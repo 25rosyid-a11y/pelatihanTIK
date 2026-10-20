@@ -4,7 +4,7 @@ body {
   color: #191970; /*warna teks utama (Biru Gelap) */
 }
 
-kartu-profil {
+profil saya akhdan {
   widh: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengah kanan/kiri */
   padding: 20 px;
@@ -18,7 +18,7 @@ foto profil saya img {
   botder-radius: 40% /* trik untuk membuat gambar persegi menjadi lengkungan sempurna */
 }
 
-kartu-pofil{
+profil saya akhdan{
       /*...(kode dari slide sebelumnya)...*/
 text-align: center; /* menengahkan semua teks di dalam kartu */
 }
