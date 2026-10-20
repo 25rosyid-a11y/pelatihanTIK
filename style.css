@@ -1,0 +1,24 @@
+bidy {
+  background-color: #FFFFEO; /* Warna Kuning Cerah */
+  font-family: arial, sans-serif; /*jenis huruf yang berisi dan mudah dibaca */
+  color: #191970; /*warna teks utama (Biru Gelap) */
+}
+
+profil saya akhdan {
+  widh: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengah kanan/kiri */
+  padding: 20 px;
+  backgruond-color: white;
+  border-radius: 15px; /* membuat sudut menjadi melengkung */
+  box-shadow: 0 4px 8px rgba(0,0,0,0,1), /* efek bayangan */
+}  
+
+foto profil saya img {
+  widh: 150px;
+  botder-radius: 40% /* trik untuk membuat gambar persegi menjadi lengkungan sempurna */
+}
+
+profil saya akhdan{
+      /*...(kode dari slide sebelumnya)...*/
+text-align: center; /* menengahkan semua teks di dalam kartu */
+}
