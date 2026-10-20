@@ -1,10 +1,10 @@
-bidy {
+body {
   background-color: #FFFFEO; /* Warna Kuning Cerah */
   font-family: arial, sans-serif; /*jenis huruf yang berisi dan mudah dibaca */
   color: #191970; /*warna teks utama (Biru Gelap) */
 }
 
-profil saya akhdan {
+kartu-profil {
   widh: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengah kanan/kiri */
   padding: 20 px;
@@ -18,7 +18,7 @@ foto profil saya img {
   botder-radius: 40% /* trik untuk membuat gambar persegi menjadi lengkungan sempurna */
 }
 
-profil saya akhdan{
+kartu-pofil{
       /*...(kode dari slide sebelumnya)...*/
 text-align: center; /* menengahkan semua teks di dalam kartu */
 }
